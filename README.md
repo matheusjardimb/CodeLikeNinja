@@ -1,4 +1,4 @@
 CodeLikeNinja
 =============
 
-CodeLike.Ninja blog
+Every CodeLike.Ninja post is stored here.
